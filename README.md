@@ -3,6 +3,8 @@ React-Imgur-Client
 
 The final app from the Udemy.com Course [Learn and Understand React JS](https://www.udemy.com/learn-and-understand-reactjs/).
 
+[Imgur API Reference](https://api.imgur.com/endpoints)
+
 ---
 
 ###Getting Started###
